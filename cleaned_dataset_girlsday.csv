@@ -313,7 +313,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 6,3063,Diesel,18,4,2,Bus
 20,790,Geen,0,2,0,Aanhangwagen
 27,906,Geen,0,2,0,Aanhangwagen
-20,993,Benzine,5,4,0,Personenauto
+20,993,Benzine,5,4,2,Personenauto
 15,138,Benzine,2,2,0,Motorfiets
 25,520,Geen,0,2,0,Aanhangwagen
 7,250,Benzine,2,2,0,Motorfiets
@@ -352,7 +352,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,216,Benzine,2,2,0,Motorfiets
 23,1005,Benzine,5,4,4,Personenauto
 10,885,Benzine,5,4,4,Personenauto
-13,1402,Benzine,5,4,0,Personenauto
+13,1402,Benzine,5,4,2,Personenauto
 15,275,Geen,0,2,0,Aanhangwagen
 10,954,Benzine,5,4,4,Personenauto
 13,234,Benzine,2,2,0,Motorfiets
@@ -431,7 +431,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 10,12340,Diesel,61,4,3,Bus
 4,180,Benzine,2,2,0,Motorfiets
 27,560,Geen,0,2,0,Aanhangwagen
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 19,1365,Benzine,5,4,4,Personenauto
 13,11430,Diesel,34,4,4,Bus
 17,1255,Benzine,4,4,2,Personenauto
@@ -463,7 +463,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 11,13501,Diesel,55,4,3,Bus
 13,197,Benzine,2,2,0,Motorfiets
 5,1132,Benzine,5,4,5,Personenauto
-17,1250,Benzine,5,4,0,Personenauto
+17,1250,Benzine,5,4,2,Personenauto
 11,470,Geen,0,2,0,Aanhangwagen
 13,205,Benzine,2,2,0,Motorfiets
 30,1277,Geen,0,2,0,Aanhangwagen
@@ -521,7 +521,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,249,Benzine,1,2,0,Motorfiets
 5,228,Benzine,2,2,0,Motorfiets
 11,196,Benzine,2,2,0,Motorfiets
-11,1129,Benzine,5,4,0,Personenauto
+11,1129,Benzine,5,4,2,Personenauto
 15,195,Benzine,2,2,0,Motorfiets
 9,1262,Diesel,5,4,4,Personenauto
 2,13665,Diesel,55,6,2,Bus
@@ -611,7 +611,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 6,1508,Diesel,5,4,5,Personenauto
 25,7745,Diesel,45,4,4,Bus
 4,17380,Diesel,88,8,2,Bus
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 12,204,Benzine,2,2,0,Motorfiets
 2,13595,Elektriciteit,34,6,4,Bus
 34,446,Geen,0,2,0,Aanhangwagen
@@ -700,7 +700,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,109,Benzine,1,2,0,Motorfiets
 0,192,Benzine,2,2,0,Motorfiets
 14,850,Geen,0,2,0,Aanhangwagen
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 11,775,Benzine,4,4,2,Personenauto
 13,470,Geen,0,2,0,Aanhangwagen
 11,16066,Diesel,54,6,6,Bus
@@ -752,7 +752,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,960,Geen,0,2,0,Aanhangwagen
 16,232,Benzine,2,2,0,Motorfiets
 2,1217,Benzine,5,4,2,Personenauto
-17,1007,Benzine,5,4,0,Personenauto
+17,1007,Benzine,5,4,2,Personenauto
 13,208,Benzine,2,2,0,Motorfiets
 10,1280,Benzine,5,4,4,Personenauto
 17,590,Geen,0,2,0,Aanhangwagen
@@ -824,7 +824,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,210,Benzine,2,2,0,Motorfiets
 1,13100,Elektriciteit,44,6,3,Bus
 19,510,Geen,0,2,0,Aanhangwagen
-9,840,Benzine,4,4,0,Personenauto
+9,840,Benzine,4,4,2,Personenauto
 7,13255,Diesel,51,4,4,Bus
 6,1310,Elektriciteit,5,4,4,Personenauto
 36,3170,Geen,0,2,0,Aanhangwagen
@@ -844,7 +844,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 18,740,Geen,0,2,0,Aanhangwagen
 23,1560,Geen,0,2,0,Aanhangwagen
 27,10700,Diesel,38,4,2,Bus
-8,832,Benzine,4,4,0,Personenauto
+8,832,Benzine,4,4,2,Personenauto
 30,719,Geen,0,2,0,Aanhangwagen
 17,895,Geen,0,2,0,Aanhangwagen
 11,13475,Diesel,46,4,4,Bus
@@ -868,7 +868,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,13650,Elektriciteit,44,6,4,Bus
 10,690,Geen,0,4,0,Aanhangwagen
 16,205,Benzine,2,2,0,Motorfiets
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 30,738,Geen,0,2,0,Aanhangwagen
 2,119,Benzine,2,2,0,Motorfiets
 10,242,Benzine,2,2,0,Motorfiets
@@ -985,7 +985,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,249,Benzine,2,2,0,Motorfiets
 11,1450,Geen,0,2,0,Aanhangwagen
 37,684,Geen,0,2,0,Aanhangwagen
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 14,16080,Diesel,61,6,2,Bus
 12,815,Benzine,4,4,4,Personenauto
 7,1027,Benzine,5,4,4,Personenauto
@@ -1155,7 +1155,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,1098,Benzine,5,4,4,Personenauto
 23,730,Geen,0,2,0,Aanhangwagen
 5,198,Benzine,2,2,0,Motorfiets
-11,970,Benzine,5,4,0,Personenauto
+11,970,Benzine,5,4,2,Personenauto
 13,11430,Diesel,31,4,2,Bus
 11,292,Geen,0,2,0,Aanhangwagen
 4,18590,Elektriciteit,45,6,5,Bus
@@ -1282,7 +1282,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,1405,Benzine,7,4,4,Personenauto
 14,165,Benzine,2,2,0,Motorfiets
 21,710,Benzine,5,4,2,Personenauto
-19,1137,Benzine,5,4,0,Personenauto
+19,1137,Benzine,5,4,2,Personenauto
 4,2800,Diesel,20,4,4,Bus
 16,205,Benzine,2,2,0,Motorfiets
 4,233,Benzine,2,2,0,Motorfiets
@@ -1294,7 +1294,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 26,540,Geen,0,2,0,Aanhangwagen
 6,1499,Benzine,5,4,5,Personenauto
 5,14476,Diesel,63,6,2,Bus
-10,1155,Benzine,5,4,0,Personenauto
+10,1155,Benzine,5,4,2,Personenauto
 5,11335,Diesel,46,6,2,Bus
 2,1234,Benzine,5,4,5,Personenauto
 14,230,Benzine,2,2,0,Motorfiets
@@ -1791,7 +1791,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,181,Benzine,2,2,0,Motorfiets
 20,320,Geen,0,4,0,Aanhangwagen
 6,217,Benzine,2,2,0,Motorfiets
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 3,2390,Elektriciteit,10,4,4,Bus
 13,252,Benzine,2,2,0,Motorfiets
 12,1420,Geen,0,6,0,Aanhangwagen
@@ -1950,7 +1950,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 5,13874,Diesel,57,4,2,Bus
 9,11807,CNG,29,4,4,Bus
 13,405,Geen,0,2,0,Aanhangwagen
-6,1168,Benzine,5,4,0,Personenauto
+6,1168,Benzine,5,4,2,Personenauto
 10,212,Benzine,2,2,0,Motorfiets
 11,196,Benzine,2,2,0,Motorfiets
 19,925,Benzine,5,4,2,Personenauto
@@ -1984,7 +1984,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 55,2232,Diesel,14,4,2,Bus
 19,710,Benzine,5,4,2,Personenauto
 4,3677,Diesel,21,4,2,Bus
-11,1134,Benzine,5,4,0,Personenauto
+11,1134,Benzine,5,4,2,Personenauto
 5,1135,Benzine,5,4,5,Personenauto
 13,1354,Benzine,5,4,4,Personenauto
 29,720,Geen,0,2,0,Aanhangwagen
@@ -2093,7 +2093,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,13775,Diesel,44,4,2,Bus
 20,204,Benzine,2,2,0,Motorfiets
 17,12560,Diesel,65,4,2,Bus
-10,970,Benzine,5,4,0,Personenauto
+10,970,Benzine,5,4,2,Personenauto
 21,1040,Geen,0,2,0,Aanhangwagen
 15,16889,Diesel,63,6,2,Bus
 0,13655,Waterstof,35,6,2,Bus
@@ -2295,7 +2295,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,261,Benzine,2,2,0,Motorfiets
 9,12165,Diesel,46,4,3,Bus
 19,390,Geen,0,2,0,Aanhangwagen
-10,1967,Diesel,9,4,0,Personenauto
+10,1967,Diesel,9,4,2,Personenauto
 30,732,Geen,0,2,0,Aanhangwagen
 14,206,Benzine,2,2,0,Motorfiets
 4,20695,Elektriciteit,46,10,4,Bus
@@ -2511,7 +2511,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 12,307,Benzine,2,2,0,Motorfiets
 5,10295,Elektriciteit,29,6,3,Bus
 27,719,Geen,0,2,0,Aanhangwagen
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 22,1180,Benzine,5,4,4,Personenauto
 10,1480,Diesel,5,4,4,Personenauto
 12,1456,Benzine,4,4,2,Personenauto
@@ -2634,7 +2634,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,18270,Elektriciteit,45,6,2,Bus
 11,255,Benzine,2,2,0,Motorfiets
 24,690,Geen,0,2,0,Aanhangwagen
-7,1437,Benzine,5,4,0,Personenauto
+7,1437,Benzine,5,4,2,Personenauto
 17,1060,Geen,0,2,0,Aanhangwagen
 3,3178,Diesel,17,6,2,Bus
 11,13392,Diesel,53,4,2,Bus
@@ -2659,7 +2659,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 13,1385,Benzine,5,4,4,Personenauto
 6,207,Benzine,2,2,0,Motorfiets
 11,8876,Diesel,42,4,3,Bus
-21,877,Benzine,5,4,0,Personenauto
+21,877,Benzine,5,4,2,Personenauto
 4,121,Benzine,1,2,0,Motorfiets
 7,9250,Diesel,41,4,2,Bus
 13,8820,Diesel,41,4,2,Bus
@@ -2745,7 +2745,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,12980,Diesel,55,4,2,Bus
 2,830,Benzine,4,4,5,Personenauto
 15,1240,Benzine,5,4,4,Personenauto
-16,1102,Diesel,5,4,0,Personenauto
+16,1102,Diesel,5,4,2,Personenauto
 15,401,Geen,0,2,0,Aanhangwagen
 11,830,Benzine,5,4,4,Personenauto
 14,242,Benzine,2,2,0,Motorfiets
@@ -2787,7 +2787,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,9150,Diesel,41,6,2,Bus
 0,850,Benzine,5,4,4,Personenauto
 10,370,Geen,0,2,0,Aanhangwagen
-10,1169,Benzine,5,4,0,Personenauto
+10,1169,Benzine,5,4,2,Personenauto
 9,820,Benzine,5,4,4,Personenauto
 9,204,Benzine,2,2,0,Motorfiets
 13,850,Geen,0,2,0,Aanhangwagen
@@ -3136,7 +3136,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 13,935,Benzine,5,4,2,Personenauto
 14,480,Geen,0,2,0,Aanhangwagen
 13,191,Benzine,2,2,0,Motorfiets
-11,967,Benzine,5,4,0,Personenauto
+11,967,Benzine,5,4,2,Personenauto
 11,580,Geen,0,2,0,Aanhangwagen
 3,9200,Diesel,43,6,2,Bus
 18,830,Geen,0,2,0,Aanhangwagen
@@ -3266,7 +3266,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,20515,Elektriciteit,49,10,6,Bus
 4,11650,Diesel,42,4,2,Bus
 2,10791,Elektriciteit,37,6,3,Bus
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 8,820,Benzine,5,4,4,Personenauto
 21,1165,Benzine,5,4,4,Personenauto
 7,12356,Diesel,48,4,3,Bus
@@ -3400,7 +3400,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 23,685,Geen,0,2,0,Aanhangwagen
 6,19560,Diesel,91,8,2,Bus
 4,180,Benzine,2,2,0,Motorfiets
-13,1190,Benzine,5,4,0,Personenauto
+13,1190,Benzine,5,4,2,Personenauto
 1,21285,Elektriciteit,45,10,6,Bus
 6,1009,Benzine,5,4,2,Personenauto
 3,11450,Diesel,44,6,4,Bus
@@ -3546,7 +3546,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 34,984,Geen,0,2,0,Aanhangwagen
 39,400,Geen,0,2,0,Aanhangwagen
 13,545,Geen,0,2,0,Aanhangwagen
-16,1226,Benzine,5,4,0,Personenauto
+16,1226,Benzine,5,4,2,Personenauto
 6,179,Benzine,2,2,0,Motorfiets
 7,175,Benzine,2,2,0,Motorfiets
 3,180,Benzine,2,2,0,Motorfiets
@@ -3646,7 +3646,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 25,640,Geen,0,2,0,Aanhangwagen
 2,216,Benzine,2,2,0,Motorfiets
 15,1380,Benzine,5,4,4,Personenauto
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 1,2435,Elektriciteit,5,4,4,Personenauto
 1,135,Benzine,2,2,0,Motorfiets
 9,12924,CNG,36,4,3,Bus
@@ -3674,7 +3674,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,12466,Diesel,53,4,2,Bus
 29,600,Geen,0,2,0,Aanhangwagen
 0,135,Benzine,2,2,0,Motorfiets
-9,1134,Benzine,5,4,0,Personenauto
+9,1134,Benzine,5,4,2,Personenauto
 20,1207,Benzine,5,4,4,Personenauto
 9,2657,Diesel,16,6,4,Bus
 1,191,Benzine,2,2,0,Motorfiets
@@ -4366,7 +4366,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,12455,Diesel,39,6,4,Bus
 8,9000,Diesel,33,4,3,Bus
 10,547,Geen,0,2,0,Aanhangwagen
-8,949,Benzine,5,4,0,Personenauto
+8,949,Benzine,5,4,2,Personenauto
 1,13650,Elektriciteit,44,6,4,Bus
 5,1515,Benzine,5,4,4,Personenauto
 15,243,Benzine,2,2,0,Motorfiets
@@ -4383,7 +4383,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,296,Geen,0,2,0,Aanhangwagen
 15,940,Benzine,5,4,4,Personenauto
 12,113,Benzine,1,2,0,Motorfiets
-7,1007,Benzine,5,4,0,Personenauto
+7,1007,Benzine,5,4,2,Personenauto
 10,1119,Diesel,5,4,4,Personenauto
 25,895,Geen,0,2,0,Aanhangwagen
 12,1492,LPG,5,4,4,Personenauto
@@ -4523,7 +4523,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,203,Benzine,2,2,0,Motorfiets
 3,209,Benzine,2,2,0,Motorfiets
 12,15473,Diesel,61,6,2,Bus
-8,1002,Benzine,5,4,0,Personenauto
+8,1002,Benzine,5,4,2,Personenauto
 10,1345,Elektriciteit,5,4,4,Personenauto
 18,1020,Geen,0,2,0,Aanhangwagen
 2,12915,Elektriciteit,37,6,2,Bus
@@ -4770,7 +4770,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,9155,Diesel,41,4,2,Bus
 7,11437,Diesel,30,4,4,Bus
 12,305,Benzine,2,2,0,Motorfiets
-8,990,Benzine,5,4,0,Personenauto
+8,990,Benzine,5,4,2,Personenauto
 47,590,Geen,0,2,0,Aanhangwagen
 10,209,Benzine,2,2,0,Motorfiets
 1,830,Benzine,4,4,5,Personenauto
@@ -4852,7 +4852,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,72,Benzine,1,2,0,Motorfiets
 35,580,Geen,0,2,0,Aanhangwagen
 7,11437,Diesel,30,4,2,Bus
-9,1029,Benzine,5,4,0,Personenauto
+9,1029,Benzine,5,4,2,Personenauto
 27,456,Geen,0,2,0,Aanhangwagen
 18,4860,Geen,0,2,0,Aanhangwagen
 12,12550,CNG,32,4,4,Bus
@@ -4984,7 +4984,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 23,1080,Geen,0,2,0,Aanhangwagen
 30,570,Geen,0,2,0,Aanhangwagen
 2,1386,Diesel,5,4,5,Personenauto
-11,1216,Benzine,5,4,0,Personenauto
+11,1216,Benzine,5,4,2,Personenauto
 12,12550,CNG,32,4,3,Bus
 8,1265,Benzine,5,4,4,Personenauto
 2,1515,Diesel,5,4,5,Personenauto
@@ -5116,7 +5116,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,152,Benzine,2,2,0,Motorfiets
 5,13160,Elektriciteit,26,6,3,Bus
 4,11650,Elektriciteit,38,6,3,Bus
-10,967,Benzine,5,4,0,Personenauto
+10,967,Benzine,5,4,2,Personenauto
 12,12550,CNG,32,4,2,Bus
 10,820,Benzine,5,4,4,Personenauto
 4,210,Benzine,2,2,0,Motorfiets
@@ -5172,7 +5172,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 21,845,Geen,0,2,0,Aanhangwagen
 10,153,Benzine,2,2,0,Motorfiets
 3,274,Benzine,2,2,0,Motorfiets
-8,1518,Diesel,5,4,0,Personenauto
+8,1518,Diesel,5,4,2,Personenauto
 16,900,Geen,0,2,0,Aanhangwagen
 5,3181,Diesel,18,4,3,Bus
 16,8590,Diesel,45,4,2,Bus
@@ -5258,7 +5258,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,906,Geen,0,4,0,Aanhangwagen
 10,10950,Diesel,34,4,4,Bus
 2,130,Benzine,2,2,0,Motorfiets
-9,1218,Diesel,5,4,0,Personenauto
+9,1218,Diesel,5,4,2,Personenauto
 12,954,Benzine,5,4,4,Personenauto
 10,930,Geen,0,2,0,Aanhangwagen
 4,13549,Diesel,52,6,2,Bus
@@ -5433,7 +5433,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 17,430,Geen,0,2,0,Aanhangwagen
 13,11995,CNG,42,4,2,Bus
 12,1377,Benzine,5,4,4,Personenauto
-9,1218,Diesel,5,4,0,Personenauto
+9,1218,Diesel,5,4,2,Personenauto
 9,8945,Diesel,41,4,6,Bus
 2,11880,CNG,36,6,2,Bus
 16,1319,Benzine,5,4,4,Personenauto
@@ -5477,9 +5477,9 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,470,Geen,0,2,0,Aanhangwagen
 14,216,Benzine,2,2,0,Motorfiets
 1,14900,Elektriciteit,44,6,3,Bus
-10,1002,Benzine,5,4,0,Personenauto
+10,1002,Benzine,5,4,2,Personenauto
 16,242,Benzine,2,2,0,Motorfiets
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 17,303,Benzine,2,2,0,Motorfiets
 16,164,Benzine,2,2,0,Motorfiets
 34,390,Geen,0,2,0,Aanhangwagen
@@ -5933,7 +5933,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,12356,Diesel,48,4,2,Bus
 4,14486,Diesel,39,6,3,Bus
 1,1745,Benzine,5,4,4,Personenauto
-22,896,Benzine,5,4,0,Personenauto
+22,896,Benzine,5,4,2,Personenauto
 4,203,Benzine,2,2,0,Motorfiets
 6,221,Benzine,2,2,0,Motorfiets
 3,153,Benzine,2,2,0,Motorfiets
@@ -5942,7 +5942,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 16,209,Benzine,2,2,0,Motorfiets
 20,272,Benzine,2,2,0,Motorfiets
 32,537,Geen,0,2,0,Aanhangwagen
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 34,535,Geen,0,2,0,Aanhangwagen
 69,6650,Diesel,31,4,3,Bus
 14,9000,Diesel,21,4,2,Bus
@@ -6272,7 +6272,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,1785,Benzine,5,4,4,Personenauto
 12,1125,Geen,0,2,0,Aanhangwagen
 36,1840,Benzine,9,4,5,Personenauto
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 6,1169,Benzine,5,4,5,Personenauto
 13,1140,Benzine,5,4,4,Personenauto
 17,211,Benzine,2,2,0,Motorfiets
@@ -6307,7 +6307,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,12165,Diesel,46,4,6,Bus
 16,193,Benzine,2,2,0,Motorfiets
 0,192,Benzine,1,2,0,Motorfiets
-6,1007,Benzine,5,4,0,Personenauto
+6,1007,Benzine,5,4,2,Personenauto
 1,825,Benzine,5,4,5,Personenauto
 10,12970,Diesel,44,4,4,Bus
 16,242,Benzine,2,2,0,Motorfiets
@@ -6631,7 +6631,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 17,8815,Diesel,41,4,4,Bus
 4,11267,Diesel,44,4,2,Bus
 24,6240,Geen,0,2,0,Aanhangwagen
-9,1029,Benzine,5,4,0,Personenauto
+9,1029,Benzine,5,4,2,Personenauto
 14,177,Benzine,2,2,0,Motorfiets
 10,1160,Geen,0,2,0,Aanhangwagen
 10,186,Benzine,2,2,0,Motorfiets
@@ -6652,7 +6652,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,13325,Diesel,55,4,4,Bus
 2,1390,Elektriciteit,5,4,5,Personenauto
 15,1224,Geen,0,2,0,Aanhangwagen
-9,1295,Benzine,5,4,0,Personenauto
+9,1295,Benzine,5,4,2,Personenauto
 20,435,Geen,0,2,0,Aanhangwagen
 26,895,Geen,0,2,0,Aanhangwagen
 56,4780,Diesel,30,4,2,Bus
@@ -6752,11 +6752,11 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 24,900,Geen,0,6,0,Aanhangwagen
 6,1310,Benzine,5,4,4,Personenauto
 31,442,Geen,0,2,0,Aanhangwagen
-14,1226,Diesel,5,4,0,Personenauto
+14,1226,Diesel,5,4,2,Personenauto
 29,542,Geen,0,2,0,Aanhangwagen
 4,13665,Diesel,55,6,2,Bus
 20,239,Benzine,2,2,0,Motorfiets
-16,996,Benzine,5,4,0,Personenauto
+16,996,Benzine,5,4,2,Personenauto
 14,460,Geen,0,2,0,Aanhangwagen
 20,920,Geen,0,2,0,Aanhangwagen
 51,5330,Diesel,23,4,2,Bus
@@ -6786,7 +6786,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,12400,Diesel,59,4,3,Bus
 1,815,Benzine,4,4,4,Personenauto
 0,202,Benzine,2,2,0,Motorfiets
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 13,570,Geen,0,2,0,Aanhangwagen
 21,1010,Geen,0,2,0,Aanhangwagen
 3,2190,Elektriciteit,5,4,5,Personenauto
@@ -6804,7 +6804,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,242,Benzine,2,2,0,Motorfiets
 9,1210,Geen,0,2,0,Aanhangwagen
 7,175,Benzine,2,2,0,Motorfiets
-9,1050,Diesel,5,4,0,Personenauto
+9,1050,Diesel,5,4,2,Personenauto
 14,670,Geen,0,2,0,Aanhangwagen
 9,313,Benzine,2,2,0,Motorfiets
 10,118,Benzine,2,2,0,Motorfiets
@@ -6875,7 +6875,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,1266,Benzine,5,4,5,Personenauto
 4,206,Benzine,2,2,0,Motorfiets
 5,175,Benzine,2,2,0,Motorfiets
-15,1139,Benzine,5,4,0,Personenauto
+15,1139,Benzine,5,4,2,Personenauto
 4,237,Benzine,2,2,0,Motorfiets
 0,10060,Elektriciteit,37,6,3,Bus
 15,290,Geen,0,2,0,Aanhangwagen
@@ -6904,7 +6904,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,255,Benzine,2,2,0,Motorfiets
 16,1170,Geen,0,2,0,Aanhangwagen
 10,12970,Diesel,44,4,4,Bus
-10,1050,Diesel,5,4,0,Personenauto
+10,1050,Diesel,5,4,2,Personenauto
 27,683,Geen,0,2,0,Aanhangwagen
 19,440,Geen,0,2,0,Aanhangwagen
 0,193,Benzine,2,2,0,Motorfiets
@@ -7132,7 +7132,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,188,Benzine,2,2,0,Motorfiets
 31,780,Geen,0,2,0,Aanhangwagen
 23,4880,Geen,0,2,0,Aanhangwagen
-10,1050,Diesel,5,4,0,Personenauto
+10,1050,Diesel,5,4,2,Personenauto
 0,242,Benzine,2,2,0,Motorfiets
 11,129,Benzine,2,2,0,Motorfiets
 10,189,Benzine,2,2,0,Motorfiets
@@ -7182,7 +7182,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,13296,Diesel,52,4,2,Bus
 10,1099,Diesel,5,4,4,Personenauto
 13,1670,Benzine,5,4,4,Personenauto
-7,931,CNG,4,4,0,Personenauto
+7,931,CNG,4,4,2,Personenauto
 6,1070,Benzine,5,4,4,Personenauto
 17,206,Benzine,2,2,0,Motorfiets
 12,128,Benzine,2,2,0,Motorfiets
@@ -7202,7 +7202,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 34,556,Geen,0,2,0,Aanhangwagen
 14,243,Benzine,2,2,0,Motorfiets
 1,173,Benzine,2,2,0,Motorfiets
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 18,955,Geen,0,2,0,Aanhangwagen
 2,11980,Elektriciteit,36,6,2,Bus
 10,950,Benzine,5,4,4,Personenauto
@@ -7219,7 +7219,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,9000,Diesel,33,4,3,Bus
 5,12950,Diesel,55,6,2,Bus
 20,4760,Diesel,11,4,3,Bus
-15,988,Benzine,5,4,0,Personenauto
+15,988,Benzine,5,4,2,Personenauto
 9,1400,Elektriciteit,5,4,4,Personenauto
 6,1710,Diesel,5,4,4,Personenauto
 2,21235,Elektriciteit,45,10,6,Bus
@@ -7272,7 +7272,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 13,219,Benzine,2,2,0,Motorfiets
 30,625,Geen,0,2,0,Aanhangwagen
 13,130,Benzine,2,2,0,Motorfiets
-17,993,Benzine,5,4,0,Personenauto
+17,993,Benzine,5,4,2,Personenauto
 9,1310,Geen,0,2,0,Aanhangwagen
 19,1465,Benzine,5,4,4,Personenauto
 14,1065,Benzine,5,4,4,Personenauto
@@ -7321,7 +7321,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 16,184,Benzine,2,2,0,Motorfiets
 17,610,Geen,0,2,0,Aanhangwagen
 10,460,Geen,0,2,0,Aanhangwagen
-9,1063,Benzine,5,4,0,Personenauto
+9,1063,Benzine,5,4,2,Personenauto
 8,3678,Diesel,15,4,2,Bus
 12,211,Benzine,2,2,0,Motorfiets
 4,175,Benzine,2,2,0,Motorfiets
@@ -7441,7 +7441,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,201,Benzine,2,2,0,Motorfiets
 13,1205,Benzine,5,4,4,Personenauto
 14,8783,Diesel,41,4,6,Bus
-9,840,Benzine,4,4,0,Personenauto
+9,840,Benzine,4,4,2,Personenauto
 11,1293,Benzine,5,4,4,Personenauto
 22,660,Geen,0,2,0,Aanhangwagen
 4,14716,Diesel,55,6,2,Bus
@@ -7555,7 +7555,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,430,Geen,0,2,0,Aanhangwagen
 1,1288,Elektriciteit,5,4,4,Personenauto
 2,12455,Diesel,39,6,4,Bus
-10,1050,Diesel,5,4,0,Personenauto
+10,1050,Diesel,5,4,2,Personenauto
 7,258,Benzine,2,2,0,Motorfiets
 12,950,Geen,0,2,0,Aanhangwagen
 11,252,Benzine,2,2,0,Motorfiets
@@ -7775,7 +7775,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,20515,Elektriciteit,50,10,3,Bus
 16,295,Benzine,2,2,0,Motorfiets
 21,215,Benzine,2,2,0,Motorfiets
-16,1020,Benzine,5,4,0,Personenauto
+16,1020,Benzine,5,4,2,Personenauto
 18,400,Geen,0,2,0,Aanhangwagen
 0,1065,Benzine,5,4,5,Personenauto
 4,1168,Benzine,5,4,5,Personenauto
@@ -7821,7 +7821,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 25,714,Geen,0,2,0,Aanhangwagen
 8,11500,Diesel,34,4,2,Bus
 6,196,Benzine,2,2,0,Motorfiets
-17,993,Benzine,5,4,0,Personenauto
+17,993,Benzine,5,4,2,Personenauto
 5,950,Benzine,5,4,4,Personenauto
 16,14160,Diesel,62,6,2,Bus
 13,940,Geen,0,6,0,Aanhangwagen
@@ -7896,7 +7896,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 13,8820,Diesel,42,4,4,Bus
 13,950,Benzine,5,4,4,Personenauto
 24,340,Geen,0,2,0,Aanhangwagen
-18,983,Benzine,5,4,0,Personenauto
+18,983,Benzine,5,4,2,Personenauto
 15,180,Benzine,2,2,0,Motorfiets
 18,1311,Benzine,5,4,4,Personenauto
 21,980,Geen,0,2,0,Aanhangwagen
@@ -8278,7 +8278,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,1065,Benzine,5,4,4,Personenauto
 3,13160,Elektriciteit,30,6,3,Bus
 14,243,Benzine,2,2,0,Motorfiets
-16,991,Benzine,5,4,0,Personenauto
+16,991,Benzine,5,4,2,Personenauto
 5,16584,Diesel,49,6,2,Bus
 5,8550,Diesel,31,6,6,Bus
 5,3181,Diesel,17,4,3,Bus
@@ -8311,7 +8311,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,17380,Diesel,88,8,2,Bus
 16,178,Benzine,2,2,0,Motorfiets
 15,15750,Diesel,63,6,2,Bus
-9,1007,Benzine,5,4,0,Personenauto
+9,1007,Benzine,5,4,2,Personenauto
 5,9150,Diesel,39,6,2,Bus
 33,656,Geen,0,2,0,Aanhangwagen
 18,1080,Geen,0,2,0,Aanhangwagen
@@ -8370,7 +8370,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 24,630,Geen,0,2,0,Aanhangwagen
 17,965,Benzine,5,4,4,Personenauto
 1,162,Benzine,2,2,0,Motorfiets
-15,1229,Benzine,5,4,0,Personenauto
+15,1229,Benzine,5,4,2,Personenauto
 6,150,Benzine,2,2,0,Motorfiets
 18,1350,Benzine,4,4,2,Personenauto
 9,840,Benzine,4,4,4,Personenauto
@@ -8713,7 +8713,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,1390,Benzine,5,4,5,Personenauto
 28,390,Geen,0,2,0,Aanhangwagen
 0,2920,Diesel,4,4,3,Personenauto
-8,1050,Diesel,5,4,0,Personenauto
+8,1050,Diesel,5,4,2,Personenauto
 11,915,Benzine,5,4,4,Personenauto
 23,600,Geen,0,2,0,Aanhangwagen
 13,1295,Benzine,5,4,4,Personenauto
@@ -8767,7 +8767,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,310,Geen,0,2,0,Aanhangwagen
 1,15586,Diesel,63,6,2,Bus
 19,272,Benzine,2,2,0,Motorfiets
-11,1134,Benzine,5,4,0,Personenauto
+11,1134,Benzine,5,4,2,Personenauto
 6,307,Benzine,2,2,0,Motorfiets
 1,1351,Elektriciteit,5,4,5,Personenauto
 6,208,Benzine,2,2,0,Motorfiets
@@ -8798,7 +8798,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,220,Benzine,2,2,0,Motorfiets
 13,16960,Diesel,49,6,2,Bus
 13,194,Benzine,2,2,0,Motorfiets
-10,967,Benzine,5,4,0,Personenauto
+10,967,Benzine,5,4,2,Personenauto
 10,14118,Diesel,50,4,2,Bus
 1,214,Benzine,2,2,0,Motorfiets
 16,2940,Geen,0,2,0,Aanhangwagen
@@ -9151,7 +9151,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,2650,Diesel,6,4,3,Personenauto
 14,1200,Benzine,7,4,4,Personenauto
 53,90,Benzine,2,2,0,Motorfiets
-22,936,Benzine,5,4,0,Personenauto
+22,936,Benzine,5,4,2,Personenauto
 13,11077,Diesel,29,4,3,Bus
 11,840,Benzine,4,4,2,Personenauto
 8,14150,Diesel,57,4,2,Bus
@@ -9315,7 +9315,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 11,370,Geen,0,2,0,Aanhangwagen
 17,1295,Benzine,4,4,2,Personenauto
 10,18950,Diesel,58,6,2,Bus
-21,918,Benzine,5,4,0,Personenauto
+21,918,Benzine,5,4,2,Personenauto
 0,213,Benzine,2,2,0,Motorfiets
 17,890,Geen,0,2,0,Aanhangwagen
 3,198,Benzine,2,2,0,Motorfiets
@@ -9554,7 +9554,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,4035,Elektriciteit,20,6,1,Bus
 1,228,Benzine,2,2,0,Motorfiets
 20,870,Benzine,4,4,2,Personenauto
-8,1050,Diesel,5,4,0,Personenauto
+8,1050,Diesel,5,4,2,Personenauto
 28,807,Geen,0,2,0,Aanhangwagen
 8,221,Benzine,2,2,0,Motorfiets
 22,980,Geen,0,2,0,Aanhangwagen
@@ -9653,7 +9653,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,13563,Diesel,52,4,2,Bus
 13,1065,Benzine,5,4,4,Personenauto
 18,190,Benzine,2,2,0,Motorfiets
-9,2584,Diesel,9,4,0,Personenauto
+9,2584,Diesel,9,4,2,Personenauto
 12,257,Benzine,2,2,0,Motorfiets
 7,225,Benzine,2,2,0,Motorfiets
 6,122,Benzine,2,2,0,Motorfiets
@@ -9748,7 +9748,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 32,400,Geen,0,2,0,Aanhangwagen
 9,191,Benzine,2,2,0,Motorfiets
 7,11437,Diesel,30,4,2,Bus
-9,1004,Benzine,5,4,0,Personenauto
+9,1004,Benzine,5,4,2,Personenauto
 1,1385,Benzine,5,4,5,Personenauto
 14,500,Geen,0,2,0,Aanhangwagen
 18,720,Geen,0,2,0,Aanhangwagen
@@ -9877,7 +9877,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 13,178,Benzine,2,2,0,Motorfiets
 12,151,Benzine,2,2,0,Motorfiets
 21,1075,Geen,0,2,0,Aanhangwagen
-1,3840,Diesel,5,6,4,Personenauto
+1,3840,Diesel,5,4,4,Personenauto
 14,210,Benzine,2,2,0,Motorfiets
 5,188,Benzine,2,2,0,Motorfiets
 14,836,Benzine,5,4,4,Personenauto
@@ -9890,7 +9890,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,16320,Diesel,58,6,2,Bus
 1,1165,Benzine,5,4,5,Personenauto
 13,174,Benzine,2,2,0,Motorfiets
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 2,12455,Elektriciteit,39,6,4,Bus
 6,840,Benzine,4,4,5,Personenauto
 13,1485,Benzine,5,4,4,Personenauto
@@ -9937,7 +9937,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 5,840,Benzine,4,4,2,Personenauto
 25,17230,Diesel,75,6,3,Bus
 36,860,Diesel,5,4,4,Personenauto
-13,1402,Benzine,5,4,0,Personenauto
+13,1402,Benzine,5,4,2,Personenauto
 2,11980,CNG,36,6,2,Bus
 2,261,Benzine,2,2,0,Motorfiets
 13,1174,Geen,0,2,0,Aanhangwagen
@@ -10138,7 +10138,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,195,Benzine,2,2,0,Motorfiets
 14,235,Benzine,2,2,0,Motorfiets
 49,624,Geen,0,2,0,Aanhangwagen
-22,1040,Benzine,5,4,0,Personenauto
+22,1040,Benzine,5,4,2,Personenauto
 2,3520,Diesel,24,4,2,Bus
 19,906,Benzine,5,4,2,Personenauto
 7,198,Benzine,2,2,0,Motorfiets
@@ -10281,7 +10281,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,205,Benzine,2,2,0,Motorfiets
 1,1930,Elektriciteit,5,4,5,Personenauto
 1,198,Benzine,2,2,0,Motorfiets
-8,1007,Benzine,5,4,0,Personenauto
+8,1007,Benzine,5,4,2,Personenauto
 5,15418,Diesel,64,6,2,Bus
 4,11475,Diesel,44,4,2,Bus
 10,213,Benzine,2,2,0,Motorfiets
@@ -10425,7 +10425,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 11,12759,Diesel,34,4,2,Bus
 10,12450,Diesel,37,4,4,Bus
 0,13665,Diesel,55,6,2,Bus
-19,993,Benzine,5,4,0,Personenauto
+19,993,Benzine,5,4,2,Personenauto
 10,20571,Diesel,51,6,3,Bus
 24,335,Geen,0,2,0,Aanhangwagen
 5,13530,Diesel,59,6,2,Bus
@@ -10445,7 +10445,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 2,12935,Elektriciteit,35,6,6,Bus
 4,207,Benzine,2,2,0,Motorfiets
 2,12455,Diesel,39,6,4,Bus
-9,1214,Diesel,5,4,0,Personenauto
+9,1214,Diesel,5,4,2,Personenauto
 18,190,Benzine,2,2,0,Motorfiets
 8,19520,Diesel,13,6,2,Bus
 13,182,Benzine,2,2,0,Motorfiets
@@ -10772,7 +10772,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 25,261,Geen,0,2,0,Aanhangwagen
 4,17620,Diesel,63,8,2,Bus
 15,192,Benzine,2,2,0,Motorfiets
-20,896,Benzine,5,4,0,Personenauto
+20,896,Benzine,5,4,2,Personenauto
 11,205,Benzine,2,2,0,Motorfiets
 5,203,Benzine,2,2,0,Motorfiets
 29,654,Geen,0,2,0,Aanhangwagen
@@ -10889,7 +10889,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,113,Benzine,1,2,0,Motorfiets
 38,654,Geen,0,2,0,Aanhangwagen
 22,242,Benzine,2,2,0,Motorfiets
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 21,253,Benzine,2,2,0,Motorfiets
 3,905,Benzine,4,4,3,Personenauto
 14,192,Benzine,2,2,0,Motorfiets
@@ -11060,7 +11060,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,1148,Benzine,5,4,4,Personenauto
 37,596,Geen,0,2,0,Aanhangwagen
 17,545,Geen,0,2,0,Aanhangwagen
-19,983,Benzine,5,4,0,Personenauto
+19,983,Benzine,5,4,2,Personenauto
 0,153,Benzine,2,2,0,Motorfiets
 7,1700,Diesel,5,4,4,Personenauto
 27,490,Geen,0,2,0,Aanhangwagen
@@ -11196,7 +11196,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,1500,Benzine,5,4,4,Personenauto
 5,9150,Diesel,39,6,3,Bus
 3,237,Benzine,2,2,0,Motorfiets
-8,1007,Benzine,5,4,0,Personenauto
+8,1007,Benzine,5,4,2,Personenauto
 15,1130,Geen,0,2,0,Aanhangwagen
 8,1250,Benzine,5,4,4,Personenauto
 24,1050,Geen,0,2,0,Aanhangwagen
@@ -11298,7 +11298,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,11437,Diesel,30,4,4,Bus
 0,153,Benzine,2,2,0,Motorfiets
 11,8876,Diesel,42,4,3,Bus
-11,1134,Benzine,5,4,0,Personenauto
+11,1134,Benzine,5,4,2,Personenauto
 13,8728,Diesel,40,4,2,Bus
 16,237,Benzine,2,2,0,Motorfiets
 0,1793,Benzine,5,4,5,Personenauto
@@ -11313,7 +11313,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 45,518,Geen,0,2,0,Aanhangwagen
 10,1120,Geen,0,4,0,Aanhangwagen
 11,1280,Geen,0,6,0,Aanhangwagen
-11,967,Benzine,5,4,0,Personenauto
+11,967,Benzine,5,4,2,Personenauto
 30,970,Geen,0,2,0,Aanhangwagen
 9,15490,Diesel,63,6,2,Bus
 15,242,Benzine,2,2,0,Motorfiets
@@ -11376,7 +11376,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,1400,Elektriciteit,5,4,4,Personenauto
 11,190,Benzine,2,2,0,Motorfiets
 0,19365,Elektriciteit,53,10,5,Bus
-12,967,Benzine,5,4,0,Personenauto
+12,967,Benzine,5,4,2,Personenauto
 28,693,Geen,0,2,0,Aanhangwagen
 6,949,Benzine,5,4,2,Personenauto
 14,178,Benzine,2,2,0,Motorfiets
@@ -11398,7 +11398,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 20,810,Geen,0,2,0,Aanhangwagen
 16,290,Geen,0,2,0,Aanhangwagen
 15,18900,Diesel,95,6,2,Bus
-20,1160,Benzine,5,4,0,Personenauto
+20,1160,Benzine,5,4,2,Personenauto
 10,272,Benzine,2,2,0,Motorfiets
 17,720,Geen,0,2,0,Aanhangwagen
 17,1044,Benzine,5,4,4,Personenauto
@@ -11738,7 +11738,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,1280,Geen,0,2,0,Aanhangwagen
 35,560,Geen,0,2,0,Aanhangwagen
 19,920,Geen,0,2,0,Aanhangwagen
-17,1395,Benzine,5,4,0,Personenauto
+17,1395,Benzine,5,4,2,Personenauto
 10,875,Geen,0,2,0,Aanhangwagen
 17,1020,Benzine,5,4,2,Personenauto
 21,710,Benzine,5,4,2,Personenauto
@@ -11767,7 +11767,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 12,206,Benzine,2,2,0,Motorfiets
 17,1019,Geen,0,2,0,Aanhangwagen
 22,891,Benzine,4,4,2,Personenauto
-20,896,Benzine,5,4,0,Personenauto
+20,896,Benzine,5,4,2,Personenauto
 20,850,Geen,0,2,0,Aanhangwagen
 1,13650,Elektriciteit,44,6,4,Bus
 5,4950,Diesel,25,4,4,Bus
@@ -11793,14 +11793,14 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,1555,Benzine,4,4,2,Personenauto
 18,870,Geen,0,2,0,Aanhangwagen
 20,920,Geen,0,2,0,Aanhangwagen
-19,993,Benzine,5,4,0,Personenauto
+19,993,Benzine,5,4,2,Personenauto
 9,10362,Diesel,37,4,2,Bus
 0,184,Benzine,2,2,0,Motorfiets
 2,12455,Elektriciteit,39,6,4,Bus
 10,12970,Diesel,44,4,2,Bus
 12,151,Benzine,2,2,0,Motorfiets
 11,290,Geen,0,2,0,Aanhangwagen
-15,996,Benzine,5,4,0,Personenauto
+15,996,Benzine,5,4,2,Personenauto
 42,9150,Diesel,44,4,2,Bus
 20,1405,Benzine,5,4,2,Personenauto
 13,266,Benzine,2,2,0,Motorfiets
@@ -12075,7 +12075,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 5,157,Benzine,2,2,0,Motorfiets
 4,225,Benzine,2,2,0,Motorfiets
 26,620,Geen,0,2,0,Aanhangwagen
-11,1373,Benzine,5,4,0,Personenauto
+11,1373,Benzine,5,4,2,Personenauto
 11,185,Benzine,2,2,0,Motorfiets
 10,230,Benzine,2,2,0,Motorfiets
 16,235,Benzine,2,2,0,Motorfiets
@@ -12125,7 +12125,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 11,620,Geen,0,2,0,Aanhangwagen
 3,1040,Benzine,5,4,4,Personenauto
 8,15220,Diesel,59,6,2,Bus
-19,993,Benzine,5,4,0,Personenauto
+19,993,Benzine,5,4,2,Personenauto
 58,8924,Diesel,50,4,4,Bus
 12,725,Geen,0,2,0,Aanhangwagen
 1,13650,Elektriciteit,44,6,4,Bus
@@ -12375,7 +12375,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,820,Benzine,5,4,4,Personenauto
 16,214,Benzine,2,2,0,Motorfiets
 3,210,Benzine,2,2,0,Motorfiets
-11,988,Benzine,5,4,0,Personenauto
+11,988,Benzine,5,4,2,Personenauto
 10,189,Benzine,2,2,0,Motorfiets
 23,820,Benzine,5,4,2,Personenauto
 42,656,Geen,0,2,0,Aanhangwagen
@@ -12961,7 +12961,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,20695,Elektriciteit,46,10,4,Bus
 12,1145,Benzine,5,4,4,Personenauto
 6,108,Benzine,1,2,0,Motorfiets
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 5,9200,Diesel,43,6,4,Bus
 17,275,Benzine,2,2,0,Motorfiets
 2,1525,Benzine,5,4,5,Personenauto
@@ -13043,13 +13043,13 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 44,966,Geen,0,2,0,Aanhangwagen
 12,174,Benzine,2,2,0,Motorfiets
 5,11335,Diesel,46,6,3,Bus
-7,1065,Diesel,5,4,0,Personenauto
+7,1065,Diesel,5,4,2,Personenauto
 14,990,Geen,0,2,0,Aanhangwagen
 41,830,Geen,0,2,0,Aanhangwagen
 2,10791,Elektriciteit,37,6,3,Bus
 15,4920,Geen,0,2,0,Aanhangwagen
 4,3790,Diesel,21,4,2,Bus
-9,840,Benzine,4,4,0,Personenauto
+9,840,Benzine,4,4,2,Personenauto
 6,1330,Benzine,5,4,4,Personenauto
 14,1000,Benzine,5,4,4,Personenauto
 11,243,Benzine,2,2,0,Motorfiets
@@ -13241,7 +13241,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,20695,Elektriciteit,46,10,4,Bus
 13,547,Geen,0,2,0,Aanhangwagen
 1,13100,Elektriciteit,44,6,3,Bus
-15,1033,Benzine,5,4,0,Personenauto
+15,1033,Benzine,5,4,2,Personenauto
 10,206,Benzine,2,2,0,Motorfiets
 4,113,Benzine,1,2,0,Motorfiets
 13,13460,Diesel,52,4,4,Bus
@@ -13470,8 +13470,8 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 22,1270,Geen,0,2,0,Aanhangwagen
 29,960,Geen,0,4,0,Aanhangwagen
 7,151,Benzine,2,2,0,Motorfiets
-11,2544,Diesel,9,4,0,Personenauto
-10,1050,Diesel,5,4,0,Personenauto
+11,2544,Diesel,9,4,2,Personenauto
+10,1050,Diesel,5,4,2,Personenauto
 17,1054,Geen,0,2,0,Aanhangwagen
 30,688,Geen,0,2,0,Aanhangwagen
 17,184,Benzine,2,2,0,Motorfiets
@@ -13815,7 +13815,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 5,203,Benzine,2,2,0,Motorfiets
 5,369,Benzine,2,2,0,Motorfiets
 27,513,Geen,0,2,0,Aanhangwagen
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 19,834,Geen,0,4,0,Aanhangwagen
 0,155,Benzine,2,2,0,Motorfiets
 12,1295,Benzine,5,4,4,Personenauto
@@ -14217,7 +14217,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 17,1600,Benzine,5,4,4,Personenauto
 14,16080,Diesel,61,6,3,Bus
 4,14716,Diesel,55,6,3,Bus
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 15,1073,Geen,0,2,0,Aanhangwagen
 0,226,Benzine,2,2,0,Motorfiets
 11,1105,Diesel,5,4,4,Personenauto
@@ -14321,7 +14321,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 6,1060,Benzine,5,4,4,Personenauto
 13,196,Benzine,2,2,0,Motorfiets
 6,820,Benzine,5,4,4,Personenauto
-18,993,Benzine,5,4,0,Personenauto
+18,993,Benzine,5,4,2,Personenauto
 18,955,Geen,0,2,0,Aanhangwagen
 7,17200,Diesel,59,6,6,Bus
 14,16080,Diesel,63,6,2,Bus
@@ -14467,7 +14467,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 12,17100,Diesel,46,6,2,Bus
 5,237,Benzine,2,2,0,Motorfiets
 3,1831,Elektriciteit,5,4,4,Personenauto
-13,1303,Benzine,5,4,0,Personenauto
+13,1303,Benzine,5,4,2,Personenauto
 1,13650,Elektriciteit,44,6,4,Bus
 14,401,Geen,0,2,0,Aanhangwagen
 6,195,Benzine,2,2,0,Motorfiets
@@ -14738,7 +14738,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,242,Benzine,2,2,0,Motorfiets
 4,1469,Benzine,5,4,5,Personenauto
 5,217,Benzine,2,2,0,Motorfiets
-9,1002,Benzine,5,4,0,Personenauto
+9,1002,Benzine,5,4,2,Personenauto
 20,229,Benzine,2,2,0,Motorfiets
 4,18910,Diesel,87,6,2,Bus
 0,20126,Elektriciteit,52,10,5,Bus
@@ -14812,7 +14812,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 10,12400,Diesel,39,4,2,Bus
 4,11650,Elektriciteit,38,6,3,Bus
 16,241,Benzine,2,2,0,Motorfiets
-13,1423,Benzine,5,4,0,Personenauto
+13,1423,Benzine,5,4,2,Personenauto
 13,8875,Diesel,40,4,2,Bus
 14,16080,Diesel,61,6,5,Bus
 17,1628,Benzine,5,4,4,Personenauto
@@ -14837,7 +14837,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 29,340,Geen,0,2,0,Aanhangwagen
 0,198,Benzine,2,2,0,Motorfiets
 17,2720,Geen,0,6,0,Aanhangwagen
-11,1050,Diesel,5,4,0,Personenauto
+11,1050,Diesel,5,4,2,Personenauto
 34,698,Geen,0,2,0,Aanhangwagen
 9,246,Benzine,2,2,0,Motorfiets
 33,587,Geen,0,2,0,Aanhangwagen
@@ -14865,7 +14865,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 14,202,Benzine,2,2,0,Motorfiets
 7,163,Benzine,2,2,0,Motorfiets
 1,13650,Elektriciteit,44,6,4,Bus
-7,1007,Benzine,5,4,0,Personenauto
+7,1007,Benzine,5,4,2,Personenauto
 23,460,Geen,0,2,0,Aanhangwagen
 22,1150,Benzine,5,4,2,Personenauto
 27,1920,Diesel,5,4,3,Personenauto
@@ -15064,7 +15064,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,1666,Benzine,5,4,5,Personenauto
 20,420,Geen,0,2,0,Aanhangwagen
 3,845,Benzine,5,4,4,Personenauto
-22,1507,Diesel,9,4,0,Personenauto
+22,1507,Diesel,9,4,2,Personenauto
 1,1266,Benzine,5,4,5,Personenauto
 11,369,Geen,0,2,0,Aanhangwagen
 12,12550,CNG,32,4,4,Bus
@@ -15144,7 +15144,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 10,201,Benzine,2,2,0,Motorfiets
 24,766,Geen,0,2,0,Aanhangwagen
 9,12165,Diesel,46,4,2,Bus
-16,1431,Diesel,5,4,0,Personenauto
+16,1431,Diesel,5,4,2,Personenauto
 13,12520,Diesel,43,4,2,Bus
 15,9360,Geen,0,2,0,Aanhangwagen
 3,1690,Benzine,5,4,4,Personenauto
@@ -15199,7 +15199,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,18760,Diesel,91,6,2,Bus
 19,1070,Geen,0,2,0,Aanhangwagen
 5,1295,Diesel,5,4,5,Personenauto
-9,1050,Diesel,5,4,0,Personenauto
+9,1050,Diesel,5,4,2,Personenauto
 12,234,Benzine,2,2,0,Motorfiets
 11,290,Geen,0,2,0,Aanhangwagen
 37,700,Geen,0,2,0,Aanhangwagen
@@ -15563,7 +15563,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,13310,Diesel,48,6,2,Bus
 5,306,Benzine,2,2,0,Motorfiets
 30,2250,Diesel,6,4,2,Personenauto
-17,983,Benzine,5,4,0,Personenauto
+17,983,Benzine,5,4,2,Personenauto
 10,1217,Benzine,5,4,4,Personenauto
 2,12455,Diesel,39,6,4,Bus
 19,300,Geen,0,2,0,Aanhangwagen
@@ -15576,7 +15576,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 0,1793,Benzine,5,4,5,Personenauto
 2,1065,Benzine,5,4,4,Personenauto
 4,110,Benzine,2,2,0,Motorfiets
-17,993,Benzine,5,4,0,Personenauto
+17,993,Benzine,5,4,2,Personenauto
 3,15769,CNG,56,8,2,Bus
 15,198,Benzine,2,2,0,Motorfiets
 6,16260,Diesel,63,8,2,Bus
@@ -15703,7 +15703,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 1,1320,Benzine,5,4,5,Personenauto
 9,367,Benzine,2,2,0,Motorfiets
 2,21235,Elektriciteit,45,10,6,Bus
-10,970,Benzine,5,4,0,Personenauto
+10,970,Benzine,5,4,2,Personenauto
 10,12648,CNG,31,4,4,Bus
 6,3049,Diesel,17,4,4,Bus
 13,460,Geen,0,2,0,Aanhangwagen
@@ -15794,7 +15794,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 34,578,Geen,0,2,0,Aanhangwagen
 10,108,Benzine,1,2,0,Motorfiets
 18,198,Benzine,2,2,0,Motorfiets
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 2,12940,Elektriciteit,36,6,2,Bus
 7,1515,Diesel,5,4,4,Personenauto
 13,242,Benzine,2,2,0,Motorfiets
@@ -16020,7 +16020,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 17,183,Benzine,2,2,0,Motorfiets
 7,12400,Diesel,48,4,2,Bus
 22,780,Geen,0,2,0,Aanhangwagen
-16,996,Benzine,5,4,0,Personenauto
+16,996,Benzine,5,4,2,Personenauto
 22,1020,Geen,0,2,0,Aanhangwagen
 4,13400,Elektriciteit,41,6,2,Bus
 17,200,Benzine,2,2,0,Motorfiets
@@ -16114,7 +16114,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 6,193,Benzine,2,2,0,Motorfiets
 15,920,Geen,0,2,0,Aanhangwagen
 3,785,Benzine,5,4,5,Personenauto
-19,983,Benzine,5,4,0,Personenauto
+19,983,Benzine,5,4,2,Personenauto
 15,1114,Benzine,5,4,2,Personenauto
 6,1295,Benzine,4,4,2,Personenauto
 11,205,Benzine,2,2,0,Motorfiets
@@ -16219,7 +16219,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 20,16100,Diesel,32,6,2,Bus
 4,196,Benzine,2,2,0,Motorfiets
 6,13841,Diesel,57,6,2,Bus
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 11,184,Benzine,2,2,0,Motorfiets
 18,486,Geen,0,2,0,Aanhangwagen
 19,780,Geen,0,2,0,Aanhangwagen
@@ -16572,7 +16572,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 31,734,Geen,0,2,0,Aanhangwagen
 2,11880,CNG,36,6,2,Bus
 22,675,Geen,0,2,0,Aanhangwagen
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 15,164,Benzine,2,2,0,Motorfiets
 14,700,Geen,0,2,0,Aanhangwagen
 18,400,Geen,0,2,0,Aanhangwagen
@@ -16645,7 +16645,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,175,Benzine,2,2,0,Motorfiets
 14,182,Benzine,2,2,0,Motorfiets
 1,13650,Elektriciteit,44,6,4,Bus
-12,1190,Benzine,5,4,0,Personenauto
+12,1190,Benzine,5,4,2,Personenauto
 14,1120,Benzine,5,4,4,Personenauto
 1,212,Benzine,2,2,0,Motorfiets
 2,1660,Benzine,5,4,4,Personenauto
@@ -16808,7 +16808,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 16,1179,Benzine,5,4,4,Personenauto
 2,1249,Elektriciteit,5,4,4,Personenauto
 1,163,Benzine,2,2,0,Motorfiets
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 6,3814,Diesel,20,4,3,Bus
 14,1086,Geen,0,2,0,Aanhangwagen
 28,647,Geen,0,2,0,Aanhangwagen
@@ -16858,7 +16858,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,18740,Diesel,93,6,2,Bus
 10,1260,Benzine,5,4,4,Personenauto
 18,780,Geen,0,2,0,Aanhangwagen
-9,1002,Benzine,5,4,0,Personenauto
+9,1002,Benzine,5,4,2,Personenauto
 15,859,Benzine,4,4,4,Personenauto
 7,9250,Diesel,41,4,4,Bus
 8,11500,Diesel,34,4,2,Bus
@@ -16927,7 +16927,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 4,228,Benzine,2,2,0,Motorfiets
 15,290,Geen,0,2,0,Aanhangwagen
 1,13100,Elektriciteit,43,6,3,Bus
-7,995,Benzine,5,4,0,Personenauto
+7,995,Benzine,5,4,2,Personenauto
 41,594,Geen,0,2,0,Aanhangwagen
 0,13610,Diesel,55,6,2,Bus
 18,935,Benzine,5,4,4,Personenauto
@@ -16978,7 +16978,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,188,Benzine,2,2,0,Motorfiets
 9,268,Benzine,2,2,0,Motorfiets
 4,830,Benzine,4,4,4,Personenauto
-8,1536,Diesel,5,4,0,Personenauto
+8,1536,Diesel,5,4,2,Personenauto
 4,1170,Benzine,5,4,5,Personenauto
 13,169,Benzine,2,2,0,Motorfiets
 43,700,Geen,0,2,0,Aanhangwagen
@@ -17069,11 +17069,11 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,465,Geen,0,2,0,Aanhangwagen
 16,1345,Benzine,5,4,4,Personenauto
 12,1403,Benzine,7,4,4,Personenauto
-9,1050,Diesel,5,4,0,Personenauto
+9,1050,Diesel,5,4,2,Personenauto
 8,1403,Elektriciteit,5,4,4,Personenauto
 11,194,Benzine,2,2,0,Motorfiets
 9,243,Benzine,2,2,0,Motorfiets
-7,840,Benzine,4,4,0,Personenauto
+7,840,Benzine,4,4,2,Personenauto
 15,255,Benzine,2,2,0,Motorfiets
 11,340,Geen,0,2,0,Aanhangwagen
 4,161,Benzine,2,2,0,Motorfiets
@@ -17164,7 +17164,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 27,335,Geen,0,2,0,Aanhangwagen
 12,1015,Benzine,5,4,4,Personenauto
 33,416,Geen,0,2,0,Aanhangwagen
-9,1050,Diesel,5,4,0,Personenauto
+9,1050,Diesel,5,4,2,Personenauto
 8,9000,Diesel,33,4,3,Bus
 16,650,Geen,0,2,0,Aanhangwagen
 14,862,Benzine,4,4,2,Personenauto
@@ -17561,7 +17561,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,830,Benzine,4,4,5,Personenauto
 2,13600,Elektriciteit,36,6,4,Bus
 2,1142,Benzine,5,4,5,Personenauto
-17,1028,Benzine,5,4,0,Personenauto
+17,1028,Benzine,5,4,2,Personenauto
 2,12750,Elektriciteit,43,6,3,Bus
 21,870,Geen,0,2,0,Aanhangwagen
 1,13650,Elektriciteit,44,6,4,Bus
@@ -17744,7 +17744,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 23,790,Geen,0,2,0,Aanhangwagen
 17,850,Geen,0,2,0,Aanhangwagen
 1,1920,Elektriciteit,5,4,4,Personenauto
-13,1059,Diesel,5,4,0,Personenauto
+13,1059,Diesel,5,4,2,Personenauto
 11,400,Benzine,2,2,0,Motorfiets
 16,194,Benzine,2,2,0,Motorfiets
 9,8945,Diesel,41,4,2,Bus
@@ -17867,7 +17867,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,880,Geen,0,2,0,Aanhangwagen
 7,11007,Diesel,44,4,4,Bus
 4,1163,Benzine,5,4,5,Personenauto
-14,1159,Benzine,5,4,0,Personenauto
+14,1159,Benzine,5,4,2,Personenauto
 13,11430,Diesel,34,4,2,Bus
 7,1562,Elektriciteit,5,4,4,Personenauto
 21,780,Geen,0,2,0,Aanhangwagen
@@ -18100,7 +18100,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 6,1685,Benzine,5,4,5,Personenauto
 19,780,Geen,0,2,0,Aanhangwagen
 12,12550,CNG,32,4,2,Bus
-12,991,Benzine,5,4,0,Personenauto
+12,991,Benzine,5,4,2,Personenauto
 17,300,Geen,0,2,0,Aanhangwagen
 15,620,Geen,0,2,0,Aanhangwagen
 12,243,Benzine,2,2,0,Motorfiets
@@ -18213,7 +18213,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,8945,Diesel,41,4,4,Bus
 20,1290,Benzine,5,4,4,Personenauto
 13,1200,Geen,0,2,0,Aanhangwagen
-12,970,Benzine,5,4,0,Personenauto
+12,970,Benzine,5,4,2,Personenauto
 1,13650,Elektriciteit,44,6,4,Bus
 12,830,Benzine,4,4,4,Personenauto
 15,185,Benzine,2,2,0,Motorfiets
@@ -18362,7 +18362,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 8,16595,Diesel,42,6,6,Bus
 18,580,Geen,0,4,0,Aanhangwagen
 6,200,Benzine,2,2,0,Motorfiets
-10,1050,Diesel,5,4,0,Personenauto
+10,1050,Diesel,5,4,2,Personenauto
 0,206,Benzine,2,2,0,Motorfiets
 8,1344,Geen,0,2,0,Aanhangwagen
 4,198,Benzine,2,2,0,Motorfiets
@@ -18504,7 +18504,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 3,12525,CNG,42,6,2,Bus
 34,1001,Geen,0,2,0,Aanhangwagen
 14,1590,Geen,0,2,0,Aanhangwagen
-9,840,Benzine,4,4,0,Personenauto
+9,840,Benzine,4,4,2,Personenauto
 18,223,Benzine,2,2,0,Motorfiets
 6,179,Benzine,2,2,0,Motorfiets
 9,8945,Diesel,41,4,2,Bus
@@ -18512,7 +18512,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,1280,Benzine,5,4,4,Personenauto
 8,180,Benzine,2,2,0,Motorfiets
 4,298,Benzine,2,2,0,Motorfiets
-21,931,Benzine,5,4,0,Personenauto
+21,931,Benzine,5,4,2,Personenauto
 2,1505,Diesel,5,4,4,Personenauto
 2,200,Benzine,2,2,0,Motorfiets
 7,11437,Diesel,30,4,2,Bus
@@ -18540,10 +18540,10 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,246,Benzine,2,2,0,Motorfiets
 12,320,Geen,0,2,0,Aanhangwagen
 4,214,Benzine,2,2,0,Motorfiets
-15,1336,Benzine,5,4,0,Personenauto
+15,1336,Benzine,5,4,2,Personenauto
 9,920,Benzine,4,4,2,Personenauto
 23,1521,LPG,4,4,2,Personenauto
-8,840,Benzine,4,4,0,Personenauto
+8,840,Benzine,4,4,2,Personenauto
 0,203,Benzine,2,2,0,Motorfiets
 0,182,Benzine,2,2,0,Motorfiets
 10,1064,Benzine,5,4,2,Personenauto
@@ -18993,7 +18993,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 7,11437,Diesel,30,4,2,Bus
 8,9000,Diesel,33,4,2,Bus
 5,19075,Elektriciteit,47,10,4,Bus
-13,1064,Diesel,5,4,0,Personenauto
+13,1064,Diesel,5,4,2,Personenauto
 4,175,Benzine,2,2,0,Motorfiets
 13,1010,Geen,0,2,0,Aanhangwagen
 0,13655,Elektriciteit,35,6,2,Bus
@@ -19040,7 +19040,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 19,940,Geen,0,2,0,Aanhangwagen
 33,527,Geen,0,2,0,Aanhangwagen
 7,12353,Diesel,46,4,3,Bus
-9,1218,Diesel,5,4,0,Personenauto
+9,1218,Diesel,5,4,2,Personenauto
 2,1065,Benzine,5,4,4,Personenauto
 17,870,Benzine,5,4,2,Personenauto
 44,639,Geen,0,2,0,Aanhangwagen
@@ -19168,7 +19168,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 15,1275,Benzine,5,4,4,Personenauto
 8,191,Benzine,2,2,0,Motorfiets
 10,12970,Diesel,44,4,2,Bus
-10,1876,Diesel,9,4,0,Personenauto
+10,1876,Diesel,9,4,2,Personenauto
 40,9800,Diesel,41,4,4,Bus
 15,910,Benzine,5,4,2,Personenauto
 14,18900,Diesel,91,6,3,Bus
@@ -19381,7 +19381,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 28,440,Geen,0,2,0,Aanhangwagen
 17,600,Geen,0,2,0,Aanhangwagen
 21,318,Geen,0,2,0,Aanhangwagen
-11,970,Benzine,5,4,0,Personenauto
+11,970,Benzine,5,4,2,Personenauto
 19,1450,Geen,0,2,0,Aanhangwagen
 9,1280,Benzine,5,4,4,Personenauto
 27,520,Geen,0,2,0,Aanhangwagen
@@ -19591,7 +19591,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 5,155,Benzine,2,2,0,Motorfiets
 16,18220,Diesel,88,6,5,Bus
 34,669,Geen,0,2,0,Aanhangwagen
-22,896,Benzine,5,4,0,Personenauto
+22,896,Benzine,5,4,2,Personenauto
 18,980,Geen,0,2,0,Aanhangwagen
 16,194,Benzine,2,2,0,Motorfiets
 8,1135,Benzine,5,4,5,Personenauto
@@ -19753,7 +19753,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 0,1213,Benzine,5,4,5,Personenauto
 7,205,Benzine,1,2,0,Motorfiets
 28,330,Geen,0,2,0,Aanhangwagen
-31,2750,Diesel,6,4,1,Personenauto
+31,2750,Diesel,6,4,2,Personenauto
 2,12455,Diesel,39,6,4,Bus
 2,19320,Diesel,91,8,3,Bus
 0,137,Benzine,2,2,0,Motorfiets
@@ -19986,7 +19986,7 @@ Leeftijd,Gewicht,Brandstof,Aantal zitplaatsen,Aantal wielen,Aantal deuren,Voertu
 9,1337,Benzine,5,4,4,Personenauto
 15,775,Benzine,4,4,4,Personenauto
 27,350,Geen,0,2,0,Aanhangwagen
-12,1190,Benzine,5,4,0,Personenauto
+12,1190,Benzine,5,4,2,Personenauto
 12,650,Geen,0,2,0,Aanhangwagen
 2,13665,Diesel,55,6,2,Bus
 1,13340,Waterstof,35,6,2,Bus
